@@ -1,0 +1,16 @@
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.nav-content {
+    display: flex;
+    min-width: 30%;
+    max-width: 250px;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+    font-size: 12px;
+}
