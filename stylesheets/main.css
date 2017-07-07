@@ -22,9 +22,18 @@
     display: flex;
     align-items: center;
     font-size: 17px;
+    text-shadow: 2px 2px black;
 }
 
 .icon {
     display: flex;
     align-items: center;
+}
+
+.cover-image {
+    background-image: url(max.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
 }
