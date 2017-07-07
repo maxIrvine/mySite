@@ -10,7 +10,19 @@
     min-width: 30%;
     max-width: 250px;
     flex-direction: row;
+    align-content: center;
     justify-content: space-around;
     border: 1px solid black;
-    font-size: 12px;
+    font-size: 11px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
 }
