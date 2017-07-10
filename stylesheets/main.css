@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background: #326273;
+    background: rgb(214,216,216);
     padding: 15px;
 }
 
@@ -14,7 +14,7 @@
     align-content: center;
     justify-content: space-around;
     font-size: 11px;
-    color: #EEEEEE;
+    color: rgb(99,100,102);
     font-family: 'Exo', sans-serif;
 }
 
@@ -22,7 +22,7 @@
     display: flex;
     align-items: center;
     font-size: 17px;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px black;
 }
 
 .icon {
@@ -30,10 +30,5 @@
     align-items: center;
 }
 
-.cover-image {
-    background-image: url(max.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 500px;
-}
+
+
