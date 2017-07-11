@@ -66,46 +66,7 @@
     color: rgb(99,100,102);
 }
 
-/*
-@media (min-width: 415px) {
-    .nav-bar {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding: 15px;
-}
-
-.nav-content {
-    display: flex;
-    min-width: 30%;
-    max-width: 250px;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-around;
-    font-size: 11px;
+.projects-button {
+    text-decoration: none;
     color: rgb(99,100,102);
-    font-family: "Maven Pro", sans-serif;
 }
-
-.logo {
-    display: flex;
-    align-items: center;
-    font-size: 17px;
-    text-shadow: 1px 1px black;
-}
-
-.icon {
-    display: flex;
-    align-items: center;
-}
-    .cover-image {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 350px;
-        height: 496px;
-    }
-}*/
-
-
-
