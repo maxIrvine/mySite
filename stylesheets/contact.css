@@ -13,3 +13,13 @@
     padding: 10px;
     margin: 10px;
 }
+
+.center-item {
+    display: flex;
+    width: 380px;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+}
