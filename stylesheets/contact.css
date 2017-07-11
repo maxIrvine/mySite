@@ -1,5 +1,15 @@
-.contact-form {
+.contact-area {
     display: flex;
     justify-content: center;
     padding: 100px;
+    
+}
+
+.contact-form {
+    border: 5px solid rgb(99,100,102);
+}
+
+.element {
+    padding: 10px;
+    margin: 10px;
 }
