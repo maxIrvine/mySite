@@ -35,6 +35,18 @@
     align-items: center;
     margin-top: -70px;
 }
+
+
+.contact-button {
+    text-decoration: none;
+    color: rgb(99,100,102);
+}
+
+.home-button {
+    text-decoration: none;
+    color: rgb(99,100,102);
+}
+
 /*
 @media (min-width: 415px) {
     .nav-bar {
